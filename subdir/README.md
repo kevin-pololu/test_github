@@ -9,3 +9,7 @@
 [link to ./..](./..) - does not work
 
 [link to ../README.md](../README.md)
+
+[link to /](/) - does not work
+
+[link to /tree/master](/tree/master) - nope
