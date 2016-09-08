@@ -13,3 +13,5 @@
 [link to /](/) - does not work
 
 [link to /tree/master](/tree/master) - nope
+
+[link to /../..](/../..) - works??!??!?
